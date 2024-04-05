@@ -19,7 +19,7 @@ the task is to create a Power BI dashboard that offers visualizations and insigh
   - Compare COVID-19 statistics across different countries or regions.
   - Analyze the impact of measures like lockdowns or vaccination campaigns.
   - Ensure that the dashboard is user-friendly and easy to navigate.
-### 6. Interactive Dashboard:
+### 5. Interactive Dashboard:
   - Build an interactive dashboard with filters for selecting countries or regions.
   - Allow users to explore and analyze COVID-19 data dynamically
   - Create Arrow Measure in each label to make it easy to see the increasment or decreasment of numbers over the time
